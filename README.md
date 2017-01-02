@@ -7,7 +7,7 @@ first project
   
    </head>
      <body>
-     <h1> this  is  my fcirst project in  website development</h1>
+     <h1> this  is  my first project in  website development</h1>
      
      
      </body>
